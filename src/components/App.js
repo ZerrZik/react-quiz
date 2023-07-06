@@ -1,4 +1,4 @@
-import useQuiz from "../context/QuizContext;";
+import { useQuiz } from "../context/QuizContext";
 
 import Header from "./Header";
 import Main from "./Main";
